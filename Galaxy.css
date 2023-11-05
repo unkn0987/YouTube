@@ -1,0 +1,39 @@
+.div1{
+  background: linear-gradient(to left, lightgray, gray);
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px gray;
+  position: relative;
+  left: 60px;
+  top: 100px;
+}
+.button1{
+  background-color: chartreuse;
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 20px;
+  color: gray;
+  box-shadow: 5px 5px lightgray;
+  position: relative;
+  top: 1px;
+  left: 70px;
+}
+.hh1{
+  position: relative;
+  left: 90px;
+  top: 50px;
+  text-shadow: 2px 2px lightgreen;
+}
+.p1{
+  position: relative;
+  left: 70px;
+  width: 150px;
+}
+.p2{
+  position: relative;
+  left: 70px;
+  width: 190px;
+}
+
